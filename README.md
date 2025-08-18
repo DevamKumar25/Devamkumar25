@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Devam Kumar 👋<br><br>🚀 Front-End Developer | React.js Enthusiast<br><br>Currently working on a full-stack project.<br>Learning and building projects with React.js.<br>Winner of ICP Hub India.<br>Completed NPTEL certification in Cloud Computing.<br>Passionate about Data Structures & Algorithms (DSA).<br>Actively practicing coding on LeetCode and Coding Ninjas.<br>📫 Let's connect and build something amazing!<br><br>
+Hi, I'm Devam Kumar 👋<br><br>🚀  Fullstack Developer <br><br>Currently working on a full-stack project.<br>Learning and building projects with React.js.<br>Winner of ICP Hub India.<br>Completed NPTEL certification in Cloud Computing.<br>Passionate about Data Structures & Algorithms (DSA).<br>Actively practicing coding on LeetCode and Coding Ninjas.<br>📫 Let's connect and build something amazing!<br><br>
 
 
 ## 🌐 Socials:
