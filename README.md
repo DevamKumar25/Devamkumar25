@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">Full Stack Developer — MERN · Cloud Infrastructure · Microservices</h3>
-<p align="center">Ex-SWE Intern @ Findoc Financial Services &nbsp;|&nbsp; Ex-ReactJS Dev @ Celebal Technologies &nbsp;|&nbsp; B.Tech CSE — LPU '25</p>
+<p align="center">Software Developer @ Findoc &nbsp;|&nbsp; Ex-ReactJS Dev @ Celebal Technologies &nbsp;|&nbsp; B.Tech CSE</p>
 
 ---
 
@@ -40,18 +40,9 @@
 
 ---
 
-## 🎯 Skill Match — Full Stack Developer (MERN + Cloud)
+## 🎯 — Full Stack Developer (MERN + Cloud)
 
-> Actively seeking **Full Stack / Backend SDE roles** with focus on **MERN Stack**, **Cloud Infrastructure**, and **Microservices**.
-
-| JD Requirement | My Experience |
-|---|---|
-| ✅ MERN Stack | Findoc (Node/Express/MongoDB/React), Celebal, BaatCheet |
-| ✅ Linux Server Mgmt & AWS | S3 + EBS backup pipelines, Nginx rate limiting, Docker |
-| ✅ Microservices Architecture | Distributed fintech services, ETL pipelines, n8n workflows |
-| ✅ Security & Performance | JWT + OAuth 2.0, session mgmt, K6 load testing (1000+ VUs) |
-| ✅ System Design & Scalability | 100K+ records, 80+ tables, 15,000+ company screener |
-| ✅ Cyber Security | Multi-device JWT, IP-level rate limiting, secure webhooks |
+> **Full Stack / Backend SDE roles** with focus on **MERN Stack**, **Cloud Infrastructure**, and **Microservices**.
 
 ---
 
@@ -166,10 +157,7 @@
   </table>
 </div>
 
-    </td>
-    <td align="center" valign="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="500" alt="Coding GIF" />
-    </td>
+
   </tr>
 </table>
 
@@ -200,36 +188,7 @@
 - Streamlined React.js component architecture — **cut page load times by 25%** for 500+ daily users; shipped production builds on Vercel with Git-based CI/CD for zero-downtime deployments
 - Implemented **Redux** for global state management and built a reusable React component library — reduced bug reports by 15%
 - Developed RESTful APIs with Node.js + Express.js featuring JWT auth, request validation middleware, and MongoDB aggregation pipelines
-
----
-
-## 🚀 Projects
-
-### 💬 BaatCheet — Real-Time Chat Platform
-**MERN Stack · Zustand · TanStack Query · Stream.io · JWT** &nbsp;|&nbsp; March 2026
-
-- Architected full-stack platform with React.js, Node.js, MongoDB — real-time multilingual chat + emoji reactions; **reduced new user setup by 30%**
-- Designed 1-on-1 and group video calls with screen sharing via Stream Video SDK — **boosted engagement by 45%**
-- Implemented Zustand + TanStack Query — **slashed API load times by 60%**; 99.9% reliability for 2000+ users
-- Delivered mobile-responsive UI with **32 themes**; increased accessibility scores by 50%
-
----
-
-### 📄 SEBI Regulatory Document Parser
-**Python · PyTorch · spaCy · BART · OpenAI API** &nbsp;|&nbsp; October 2025 &nbsp;|&nbsp; Published on PyPI: `sebi-main-parser v0.1.9`
-
-- End-to-end ML pipeline: SEBI RSS ingestion → PDF OCR (Tesseract) → abstractive summarisation (BART-large-CNN) — eliminated manual document review entirely
-- spaCy NER + regex engine auto-extracts **15+ structured fields** from raw legal documents
-- Python multiprocessing for parallel document handling
-
----
-
-### 🖼️ AI-Powered Background Removal SaaS
-**React.js · Node.js · Express.js · MongoDB · Razorpay · Vercel** &nbsp;|&nbsp; December 2024
-
-- Full-stack SaaS on MERN stack; ClipDrop AI API integration for **99% accurate** image processing with credit-based monetisation
-- Secure payment processing (Razorpay) + Clerk auth + real-time webhook updates; drag-and-drop UI reduced interaction time by **40%**
-- Deployed on Vercel CDN with Jest unit tests for Express API routes; production-grade CI/CD on GitHub Actions
+- 
 
 ---
 
