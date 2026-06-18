@@ -230,3 +230,7 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=DevamKumar25&icon=4&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,18&height=150&section=footer&text=while(alive)%20{%20Code();%20}&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+</div>
