@@ -165,7 +165,7 @@
 
 ## 💼 Experience
 
-### 🏢 Software Developer Intern — Findoc Financial Services Group
+### 🏢 Software Developer — Findoc Financial Services Group
 **March 2024 – Present &nbsp;|&nbsp; Gurugram, Haryana**
 
 **Stack:** Golang · Node.js · Express.js · React.js · MongoDB · PostgreSQL · AWS S3/EBS · Docker · Nginx · JWT · OAuth 2.0 · K6 · n8n · BSE MF APIs · Upstox APIs
