@@ -1,7 +1,7 @@
 # 💫 About Me
 
 Hi, I'm **Devam Kumar** 👋  
-🚀 **Software Development Engineer Intern @ Findoc**  
+🚀 **Software Development Engineer @ Findoc**  
 💻 Full-Stack & Backend Developer  
 
 I am currently working as a **Software Engineer Intern at Findoc**, where I contribute to building and scaling fintech platforms involving **Mutual Funds, IPOs, Trading, Analytics, and Automation**.
@@ -85,7 +85,7 @@ I enjoy working on **backend systems, APIs, databases, automation workflows, and
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/devamkumar2525)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/devammar2525)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Devam-Kumar-5)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DevamKumar25)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devamkumar758@gmail.com)
