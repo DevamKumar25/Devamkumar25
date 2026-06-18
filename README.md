@@ -1,162 +1,272 @@
-# 💫 About Me
+<img src="https://www.shutterstock.com/shutterstock/videos/1093339649/thumb/5.jpg" alt="banner" style="width:1000px; height:300px;">
 
-Hi, I'm **Devam Kumar** 👋  
-🚀 **Software Development Engineer @ Findoc**  
-💻 Full-Stack & Backend Developer  
+<p align="center">
+  <a href="https://github.com/DevamKumar25">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Devam+Kumar;Full+Stack+%26+Backend+Developer;MERN+%7C+Cloud+%7C+Microservices+%7C+AWS;Open+to+SDE+Roles+%F0%9F%9A%80" />
+  </a>
+</p>
 
-I am currently working as a **Software Engineer Intern at Findoc**, where I contribute to building and scaling fintech platforms involving **Mutual Funds, IPOs, Trading, Analytics, and Automation**.
-
-I enjoy working on **backend systems, APIs, databases, automation workflows, and performance testing**, and I’m deeply passionate about **Data Structures & Algorithms**.
-
-📫 Let’s connect and build something impactful!
-
----
-
-## 🏢 Current Role
-
-### **Software Engineer Intern — Findoc**
-**Tech Stack:** Golang, PostgreSQL, Django, Python, Docker, Metabase, n8n, k6, JWT, BSE MF APIs, Upstox APIs  
+<h3 align="center">Full Stack Developer — MERN · Cloud Infrastructure · Microservices</h3>
+<p align="center">Ex-SWE Intern @ Findoc Financial Services &nbsp;|&nbsp; Ex-ReactJS Dev @ Celebal Technologies &nbsp;|&nbsp; B.Tech CSE — LPU '25</p>
 
 ---
 
-## 🔧 Key Contributions & Work Highlights
+<table width="100%">
+  <tr>
+    <td valign="top" width="60%">
 
-### 🔐 Backend & API Development (Golang + PostgreSQL)
-- Built complete **authentication system** with:
-  - User registration, login (password & OTP), logout
-  - JWT-based authentication
-- Designed and implemented **order management APIs**:
-  - Place Order, Get My Orders, Get All Orders
-- Integrated **BSE Mutual Fund APIs** for schemes, orders, and authentication
-- Implemented **6-hour caching mechanism** to optimize BSE API calls
-- Standardized API responses across the backend (status, message, data)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=DevamKumar25&label=Profile%20views&color=0e75b6&style=flat" alt="DevamKumar25" />
+</p>
 
----
+<h3 align="left">🤝 Let's build something impactful together!</h3>
 
-### 🧪 Testing & Performance
-- Wrote **extensive unit tests** across:
-  - Auth, Orders, Schemes, BSE, JWT token packages
-- Performed **load testing using k6** for:
-  - Auth services
-  - Client Management
-  - Dashboard analytics
-  - Support ticket systems
-  - Multiple internal service modules
-
----
-
-### 📊 Data, Analytics & Visualization
-- Integrated **PostgreSQL with Metabase**:
-  - Built SQL joins, dashboards, and charts
-- Wrote Python scripts to:
-  - Fetch BSE MF scheme data
-  - Store and visualize data in PostgreSQL & Metabase
-- Created structured financial tables:
-  - Company, Finance, Shareholding, Price History, Fundamentals, Alerts
+<div style="background-color:#000; padding:20px; border-radius:10px;">
+  <p>
+    <a href="mailto:devamkumar758@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/devammar2525" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://x.com/@DevamKumar25" target="_blank">
+      <img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://quora.com/profile/Devam-Kumar-5" target="_blank">
+      <img src="https://img.shields.io/badge/-Quora-black?style=for-the-badge&logo=quora&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 🤖 Automation & Workflows
-- Built multiple **n8n automation workflows**:
-  - Google Sheet → Invoice generation → Email automation
-  - Natural language → SQL generation using **Ollama (LLaMA / SQLCoder)**
-  - Automated circular fetching, PDF parsing, summarization, and posting
-- Analyzed and implemented **Microsoft Power Automate workflows**
+## 🎯 Skill Match — Full Stack Developer (MERN + Cloud)
+
+> Actively seeking **Full Stack / Backend SDE roles** with focus on **MERN Stack**, **Cloud Infrastructure**, and **Microservices**.
+
+| JD Requirement | My Experience |
+|---|---|
+| ✅ MERN Stack | Findoc (Node/Express/MongoDB/React), Celebal, BaatCheet |
+| ✅ Linux Server Mgmt & AWS | S3 + EBS backup pipelines, Nginx rate limiting, Docker |
+| ✅ Microservices Architecture | Distributed fintech services, ETL pipelines, n8n workflows |
+| ✅ Security & Performance | JWT + OAuth 2.0, session mgmt, K6 load testing (1000+ VUs) |
+| ✅ System Design & Scalability | 100K+ records, 80+ tables, 15,000+ company screener |
+| ✅ Cyber Security | Multi-device JWT, IP-level rate limiting, secure webhooks |
 
 ---
 
-### 🌐 Web, UI & Integrations
-- Built Django-based dashboards for:
-  - Upstox login, profile, holdings, positions
-- Implemented **real-time market data streaming** using SSE
-- Designed responsive **email templates** for IPOs & Stock platforms
-- Fixed UI/UX issues across desktop & mobile platforms
+<h3 align="left">🛠️ Languages & Tools</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+        <br/><sub><b>JavaScript</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
+        <br/><sub><b>React.js</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
+        <br/><sub><b>Node.js</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50" />
+        <br/><sub><b>Express.js</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" />
+        <br/><sub><b>MongoDB</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" />
+        <br/><sub><b>Next.js</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50" />
+        <br/><sub><b>Golang</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+        <br/><sub><b>Python</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+        <br/><sub><b>C++</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" />
+        <br/><sub><b>PostgreSQL</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
+        <br/><sub><b>MySQL</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50" />
+        <br/><sub><b>Redis</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
+        <br/><sub><b>Docker</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50" />
+        <br/><sub><b>AWS</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" />
+        <br/><sub><b>Nginx</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50" height="50" />
+        <br/><sub><b>Git</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" />
+        <br/><sub><b>Postman</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="50" height="50" />
+        <br/><sub><b>Tailwind</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:10px;">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" />
+        <br/><sub><b>Firebase</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Elasticsearch" width="50" height="50" />
+        <br/><sub><b>Elasticsearch</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50" />
+        <br/><sub><b>Django</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" />
+        <br/><sub><b>Figma</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="50" height="50" />
+        <br/><sub><b>Bootstrap</b></sub>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="50" height="50" />
+        <br/><sub><b>CI/CD</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+    </td>
+    <td align="center" valign="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="500" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 DevOps & Tools
-- Dockerized services and deployed backend code
-- Installed and configured:
-  - Docker, Metabase, n8n, Ollama
-- Learned server management:
-  - IP whitelisting, redirects, URL encoding, port/process handling
+## 💼 Experience
+
+### 🏢 Software Developer Intern — Findoc Financial Services Group
+**March 2024 – Present &nbsp;|&nbsp; Gurugram, Haryana**
+
+**Stack:** Golang · Node.js · Express.js · React.js · MongoDB · PostgreSQL · AWS S3/EBS · Docker · Nginx · JWT · OAuth 2.0 · K6 · n8n · BSE MF APIs · Upstox APIs
+
+- Architected **10+ production REST APIs** with Node.js (Express) + MongoDB — dual auth (JWT + session-based) with multi-device session management and React.js frontend integration
+- Configured **daily PostgreSQL → AWS S3 + EBS backup pipelines** with auto-cleanup, cron-based scheme sync with cache invalidation, and multi-tier Nginx + API-level rate limiting (user + IP-level per route)
+- Engineered a **real-time trading dashboard** with Node.js, Express.js, MongoDB — Upstox API (OAuth 2.0) for portfolio tracking, live market data via WebSocket + Protobuf deserialization bridged to React.js via SSE (sub-second delivery)
+- Constructed **ETL pipelines** in Python + PostgreSQL FDW consolidating 5 fintech data sources — ingesting 100K+ records across 80+ tables; cut manual reporting by 70% via Metabase BI dashboards
+- Automated **NSE/BSE regulatory document processing** (100+ XML feeds/day) using BART Transformer + spaCy NER — reduced compliance turnaround from 2 hrs → 10 min (**12× faster**)
+- Executed **K6 load testing** across 100+ endpoints simulating 1,000+ concurrent virtual users across Auth, Client Management, Dashboard, and Support services
+- Built **AI-powered stock screener** using n8n + GPT — 7 fundamental signals across 15,000+ companies; automated daily market digest emails via MJML templates
 
 ---
 
-## 🌐 Socials
+### 🏢 ReactJS Developer — Celebal Technologies
+**December 2023 – March 2024 &nbsp;|&nbsp; India**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/devammar2525)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Devam-Kumar-5)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DevamKumar25)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devamkumar758@gmail.com)
+**Stack:** React.js · Redux · Node.js · Express.js · MongoDB · JWT · Vercel · GitHub Actions
 
----
-
-## 💻 Tech Stack
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black)
+- Streamlined React.js component architecture — **cut page load times by 25%** for 500+ daily users; shipped production builds on Vercel with Git-based CI/CD for zero-downtime deployments
+- Implemented **Redux** for global state management and built a reusable React component library — reduced bug reports by 15%
+- Developed RESTful APIs with Node.js + Express.js featuring JWT auth, request validation middleware, and MongoDB aggregation pipelines
 
 ---
 
-### ⚙️ Backend & APIs
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+## 🚀 Projects
+
+### 💬 BaatCheet — Real-Time Chat Platform
+**MERN Stack · Zustand · TanStack Query · Stream.io · JWT** &nbsp;|&nbsp; March 2026
+
+- Architected full-stack platform with React.js, Node.js, MongoDB — real-time multilingual chat + emoji reactions; **reduced new user setup by 30%**
+- Designed 1-on-1 and group video calls with screen sharing via Stream Video SDK — **boosted engagement by 45%**
+- Implemented Zustand + TanStack Query — **slashed API load times by 60%**; 99.9% reliability for 2000+ users
+- Delivered mobile-responsive UI with **32 themes**; increased accessibility scores by 50%
 
 ---
 
-### 🗄️ Databases & Cloud
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+### 📄 SEBI Regulatory Document Parser
+**Python · PyTorch · spaCy · BART · OpenAI API** &nbsp;|&nbsp; October 2025 &nbsp;|&nbsp; Published on PyPI: `sebi-main-parser v0.1.9`
+
+- End-to-end ML pipeline: SEBI RSS ingestion → PDF OCR (Tesseract) → abstractive summarisation (BART-large-CNN) — eliminated manual document review entirely
+- spaCy NER + regex engine auto-extracts **15+ structured fields** from raw legal documents
+- Python multiprocessing for parallel document handling
 
 ---
 
-### 📊 DevOps, Automation & Testing
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![k6](https://img.shields.io/badge/k6-%237D64FF.svg?style=flat-square&logo=k6&logoColor=white)
-![Metabase](https://img.shields.io/badge/metabase-%23509EE3.svg?style=flat-square&logo=metabase&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-AI-black?style=flat-square)
+### 🖼️ AI-Powered Background Removal SaaS
+**React.js · Node.js · Express.js · MongoDB · Razorpay · Vercel** &nbsp;|&nbsp; December 2024
+
+- Full-stack SaaS on MERN stack; ClipDrop AI API integration for **99% accurate** image processing with credit-based monetisation
+- Secure payment processing (Razorpay) + Clerk auth + real-time webhook updates; drag-and-drop UI reduced interaction time by **40%**
+- Deployed on Vercel CDN with Jest unit tests for Express API routes; production-grade CI/CD on GitHub Actions
 
 ---
 
-### 🛠️ Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+## 🏆 Achievements
+
+- 🧠 **Competitive Programming** — 600+ problems on LeetCode & GFG | Contest Rating: **1493**
+- 🥉 **Hackathon** — 3rd Place, Block Bash 2.0 — out of 1,000+ participants; built a decentralized app on Internet Computer Protocol (ICP) using Web3
+- 🎓 **Dean's List, LPU** — Top 10% of students across 8 semesters for academic excellence
 
 ---
 
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+## 📜 Certifications
 
+- **Data Structures & Algorithms in C++** — GeeksforGeeks Self-Paced
+- **Cloud Computing** — NPTEL, IIT Kharagpur
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=DevamKumar25&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevamKumar25&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevamKumar25&theme=dark&hide_border=true&layout=compact)
+<p>
+  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevamKumar25&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevamKumar25&show_icons=true&locale=en&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<br clear="both"/>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevamKumar25&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevamKumar25&theme=github_dark" />
+</p>
 
 ---
 
