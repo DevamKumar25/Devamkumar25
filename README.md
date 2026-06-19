@@ -153,7 +153,7 @@
 ---
 
 ### 🏢 ReactJS Developer — Celebal Technologies
-**May 2023 – August 2024 &nbsp;|&nbsp; India**
+**May 2023 – August 2023 &nbsp;|&nbsp; India**
 
 **Stack:** `React.js` · `Redux` · `Node.js` · `Express.js` · `MongoDB` · `JWT` · `Vercel` · `GitHub Actions`
 
