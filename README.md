@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=DevamKumar25&label=Profile%20views&color=6366f1&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/DevamKumar25?style=for-the-badge&color=6366f1&labelColor=1e1b4b)
 
 </div>
@@ -154,7 +153,7 @@
 ---
 
 ### 🏢 ReactJS Developer — Celebal Technologies
-**December 2023 – March 2024 &nbsp;|&nbsp; India**
+**May 2023 – August 2024 &nbsp;|&nbsp; India**
 
 **Stack:** `React.js` · `Redux` · `Node.js` · `Express.js` · `MongoDB` · `JWT` · `Vercel` · `GitHub Actions`
 
