@@ -1,4 +1,3 @@
-<img src="https://www.shutterstock.com/shutterstock/videos/1093339649/thumb/5.jpg" alt="banner" style="width:1000px; height:300px;">
 
 <div align="center">
 
