@@ -1,241 +1,261 @@
 <img src="https://www.shutterstock.com/shutterstock/videos/1093339649/thumb/5.jpg" alt="banner" style="width:1000px; height:300px;">
 
-<p align="center">
-  <a href="https://github.com/DevamKumar25">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Devam+Kumar;Full+Stack+%26+Backend+Developer;MERN+%7C+Cloud+%7C+Microservices+%7C+AWS;Open+to+SDE+Roles+%F0%9F%9A%80" />
-  </a>
-</p>
+<div align="center">
 
-<h3 align="center">Full Stack Developer — MERN · Cloud Infrastructure · Microservices</h3>
-<p align="center">Software Developer @ Findoc &nbsp;|&nbsp; Ex-ReactJS Dev @ Celebal Technologies &nbsp;|&nbsp; B.Tech CSE</p>
+![Profile Views](https://komarev.com/ghpvc/?username=DevamKumar25&label=Profile%20views&color=6366f1&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/DevamKumar25?style=for-the-badge&color=6366f1&labelColor=1e1b4b)
 
----
-
-<table width="100%">
-  <tr>
-    <td valign="top" width="60%">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DevamKumar25&label=Profile%20views&color=0e75b6&style=flat" alt="DevamKumar25" />
-</p>
-
-<h3 align="left">🤝 Let's build something impactful together!</h3>
-
-<div style="background-color:#000; padding:20px; border-radius:10px;">
-  <p>
-    <a href="mailto:devamkumar758@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/devammar2525" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://x.com/@DevamKumar25" target="_blank">
-      <img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://quora.com/profile/Devam-Kumar-5" target="_blank">
-      <img src="https://img.shields.io/badge/-Quora-black?style=for-the-badge&logo=quora&logoColor=white" />
-    </a>
-  </p>
 </div>
 
----
-
-## 🎯 — Full Stack Developer (MERN + Cloud)
-
-> **Full Stack / Backend SDE roles** with focus on **MERN Stack**, **Cloud Infrastructure**, and **Microservices**.
-
----
-
-<h3 align="left">🛠️ Languages & Tools</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=40&center=true&vCenter=true&width=600&height=100&duration=3000&lines=✨+HELLO+WORLD!+✨;⚡+I'M+DEVAM+KUMAR+⚡;💻+SOFTWARE+DEVELOPER+💻;🚀+BUILDING+THE+FUTURE+🚀&color=6366f1&background=0f0f23FF" />
+</h1>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-        <br/><sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
-        <br/><sub><b>React.js</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
-        <br/><sub><b>Node.js</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50" />
-        <br/><sub><b>Express.js</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" />
-        <br/><sub><b>MongoDB</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" />
-        <br/><sub><b>Next.js</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50" />
-        <br/><sub><b>Golang</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-        <br/><sub><b>Python</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
-        <br/><sub><b>C++</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" />
-        <br/><sub><b>PostgreSQL</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
-        <br/><sub><b>MySQL</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50" />
-        <br/><sub><b>Redis</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
-        <br/><sub><b>Docker</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50" />
-        <br/><sub><b>AWS</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" />
-        <br/><sub><b>Nginx</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50" height="50" />
-        <br/><sub><b>Git</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" />
-        <br/><sub><b>Postman</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="50" height="50" />
-        <br/><sub><b>Tailwind</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding:10px;">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" />
-        <br/><sub><b>Firebase</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Elasticsearch" width="50" height="50" />
-        <br/><sub><b>Elasticsearch</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50" />
-        <br/><sub><b>Django</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" />
-        <br/><sub><b>Figma</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="50" height="50" />
-        <br/><sub><b>Bootstrap</b></sub>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="50" height="50" />
-        <br/><sub><b>CI/CD</b></sub>
-      </td>
-    </tr>
-  </table>
+
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║  🌟 FULL STACK & BACKEND DEVELOPER | INDIA 🇮🇳 | SDE               ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
+<div align="center">
 
-  </tr>
-</table>
+### 🔥 **CURRENTLY WORKING AT:** [`Findoc`](https://www.findoc.com/) — Fintech Apps + AI Solutions 🚀
+### 🎓 **B.Tech Computer Science Engineer — LPU**
+### 💡 **FOCUSED ON:** `Scalable Systems · Clean Architecture · High-Quality Code ⚡`
+
+</div>
 
 ---
 
-## 💼 Experience
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  &nbsp;CONNECT WITH ME&nbsp;
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b)](mailto:devamkumar758@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://linkedin.com/in/devammar2525)
+[![Twitter](https://img.shields.io/badge/Twitter-06b6d4?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1e1b4b)](https://x.com/@DevamKumar25)
+[![Quora](https://img.shields.io/badge/Quora-ef4444?style=for-the-badge&logo=quora&logoColor=white&labelColor=1e1b4b)](https://quora.com/profile/Devam-Kumar-5)
+[![LeetCode](https://img.shields.io/badge/LeetCode-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1b4b)](https://leetcode.com/DevamKumar25)
+[![GitHub](https://img.shields.io/badge/GitHub-6b7280?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b)](https://github.com/DevamKumar25)
+
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  &nbsp;TECH ARSENAL&nbsp;
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+</h2>
+
+<div align="center">
+
+**🔥 LANGUAGES**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=for-the-badge&logo=javascript&logoColor=1e1b4b&labelColor=fbbf24)
+![TypeScript](https://img.shields.io/badge/TypeScript-3b82f6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1e1b4b)
+![C++](https://img.shields.io/badge/C++-6366f1?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1e1b4b)
+![Go](https://img.shields.io/badge/Go-06b6d4?style=for-the-badge&logo=go&logoColor=white&labelColor=1e1b4b)
+![Python](https://img.shields.io/badge/Python-3b82f6?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1b4b)
+![Java](https://img.shields.io/badge/Java-f97316?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1e1b4b)
+![HTML5](https://img.shields.io/badge/HTML5-ef4444?style=for-the-badge&logo=html5&logoColor=white&labelColor=1e1b4b)
+![CSS3](https://img.shields.io/badge/CSS3-3b82f6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1e1b4b)
+
+**🚀 FRONTEND & FRAMEWORKS**
+
+![React](https://img.shields.io/badge/React-06b6d4?style=for-the-badge&logo=react&logoColor=white&labelColor=1e1b4b)
+![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=black&labelColor=1e1b4b)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1e1b4b)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8b5cf6?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1e1b4b)
+![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white&labelColor=1e1b4b)
+
+**⚡ BACKEND POWER**
+
+![Node.js](https://img.shields.io/badge/Node.js-10b981?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1e1b4b)
+![Express.js](https://img.shields.io/badge/Express.js-6b7280?style=for-the-badge&logo=express&logoColor=white&labelColor=1e1b4b)
+![Golang](https://img.shields.io/badge/Golang-06b6d4?style=for-the-badge&logo=go&logoColor=white&labelColor=1e1b4b)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998b?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1e1b4b)
+![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white&labelColor=1e1b4b)
+![n8n](https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=1e1b4b)
+
+**🗄️ DATABASES & CLOUD**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6366f1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1e1b4b)
+![MongoDB](https://img.shields.io/badge/MongoDB-10b981?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1e1b4b)
+![MySQL](https://img.shields.io/badge/MySQL-3b82f6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1e1b4b)
+![Redis](https://img.shields.io/badge/Redis-ef4444?style=for-the-badge&logo=redis&logoColor=white&labelColor=1e1b4b)
+![AWS](https://img.shields.io/badge/AWS-f59e0b?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1e1b4b)
+![Firebase](https://img.shields.io/badge/Firebase-f59e0b?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=1e1b4b)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=1e1b4b)
+
+**🛠️ TOOLS & PLATFORMS**
+
+![Docker](https://img.shields.io/badge/Docker-06b6d4?style=for-the-badge&logo=docker&logoColor=white&labelColor=1e1b4b)
+![Nginx](https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white&labelColor=1e1b4b)
+![Git](https://img.shields.io/badge/GIT-ef4444?style=for-the-badge&logo=git&logoColor=white&labelColor=1e1b4b)
+![GitHub](https://img.shields.io/badge/GitHub-6b7280?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b)
+![Postman](https://img.shields.io/badge/Postman-f97316?style=for-the-badge&logo=postman&logoColor=white&labelColor=1e1b4b)
+![Figma](https://img.shields.io/badge/Figma-a855f7?style=for-the-badge&logo=figma&logoColor=white&labelColor=1e1b4b)
+![K6](https://img.shields.io/badge/K6-7d64ff?style=for-the-badge&logo=k6&logoColor=white&labelColor=1e1b4b)
+
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">
+  &nbsp;WHAT I'M UP TO&nbsp;
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">
+</h2>
+
+<div align="center">
+
+```yaml
+🔭 Currently  : Software Developer @ Findoc Financial Services Group
+🌱 Learning   : System Design · Kubernetes · Advanced DSA
+👯 Open To    : SDE Roles (Full Stack / Backend) at MNCs
+🏆 CP Rating  : LeetCode 1493 | 600+ Problems Solved
+💬 Ask Me     : Golang · MERN · Cloud · Microservices · AI Integrations
+📫 Reach Me   : devamkumar758@gmail.com
+⚡ Fun Fact   : I automate things so I have time to automate more things
+```
+
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
+  &nbsp;PROFESSIONAL EXPERIENCE&nbsp;
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
+</h2>
 
 ### 🏢 Software Developer — Findoc Financial Services Group
 **March 2024 – Present &nbsp;|&nbsp; Gurugram, Haryana**
 
-**Stack:** Golang · Node.js · Express.js · React.js · MongoDB · PostgreSQL · AWS S3/EBS · Docker · Nginx · JWT · OAuth 2.0 · K6 · n8n · BSE MF APIs · Upstox APIs
+**Stack:** `Golang` · `Node.js` · `Express.js` · `React.js` · `MongoDB` · `PostgreSQL` · `AWS S3/EBS` · `Docker` · `Nginx` · `JWT` · `OAuth 2.0` · `K6` · `n8n` · `BSE MF APIs` · `Upstox APIs`
 
-- Architected **10+ production REST APIs** with Node.js (Express) + MongoDB — dual auth (JWT + session-based) with multi-device session management and React.js frontend integration
-- Configured **daily PostgreSQL → AWS S3 + EBS backup pipelines** with auto-cleanup, cron-based scheme sync with cache invalidation, and multi-tier Nginx + API-level rate limiting (user + IP-level per route)
-- Engineered a **real-time trading dashboard** with Node.js, Express.js, MongoDB — Upstox API (OAuth 2.0) for portfolio tracking, live market data via WebSocket + Protobuf deserialization bridged to React.js via SSE (sub-second delivery)
-- Constructed **ETL pipelines** in Python + PostgreSQL FDW consolidating 5 fintech data sources — ingesting 100K+ records across 80+ tables; cut manual reporting by 70% via Metabase BI dashboards
-- Automated **NSE/BSE regulatory document processing** (100+ XML feeds/day) using BART Transformer + spaCy NER — reduced compliance turnaround from 2 hrs → 10 min (**12× faster**)
-- Executed **K6 load testing** across 100+ endpoints simulating 1,000+ concurrent virtual users across Auth, Client Management, Dashboard, and Support services
-- Built **AI-powered stock screener** using n8n + GPT — 7 fundamental signals across 15,000+ companies; automated daily market digest emails via MJML templates
+- 🔧 Architected **10+ production REST APIs** with Node.js (Express) + MongoDB — dual auth (JWT + session-based) with multi-device session management and React.js frontend integration
+- 💾 Configured **daily PostgreSQL → AWS S3 + EBS backup pipelines** with auto-cleanup, cron-based scheme sync with cache invalidation, and multi-tier Nginx + API-level rate limiting (user + IP-level per route)
+- 📊 Engineered a **real-time trading dashboard** with Node.js, Express.js, MongoDB — Upstox API (OAuth 2.0) for portfolio tracking, live market data via WebSocket + Protobuf deserialization bridged to React.js via SSE (sub-second delivery)
+- 🔄 Constructed **ETL pipelines** in Python + PostgreSQL FDW consolidating 5 fintech data sources — ingesting 100K+ records across 80+ tables; cut manual reporting by 70% via Metabase BI dashboards
+- 🤖 Automated **NSE/BSE regulatory document processing** (100+ XML feeds/day) using BART Transformer + spaCy NER — reduced compliance turnaround from 2 hrs → 10 min (**12× faster**)
+- ⚡ Executed **K6 load testing** across 100+ endpoints simulating 1,000+ concurrent virtual users across Auth, Client Management, Dashboard, and Support services
+- 🧠 Built **AI-powered stock screener** using n8n + GPT — 7 fundamental signals across 15,000+ companies; automated daily market digest emails via MJML templates
 
 ---
 
 ### 🏢 ReactJS Developer — Celebal Technologies
 **December 2023 – March 2024 &nbsp;|&nbsp; India**
 
-**Stack:** React.js · Redux · Node.js · Express.js · MongoDB · JWT · Vercel · GitHub Actions
+**Stack:** `React.js` · `Redux` · `Node.js` · `Express.js` · `MongoDB` · `JWT` · `Vercel` · `GitHub Actions`
 
-- Streamlined React.js component architecture — **cut page load times by 25%** for 500+ daily users; shipped production builds on Vercel with Git-based CI/CD for zero-downtime deployments
-- Implemented **Redux** for global state management and built a reusable React component library — reduced bug reports by 15%
-- Developed RESTful APIs with Node.js + Express.js featuring JWT auth, request validation middleware, and MongoDB aggregation pipelines
-- 
-
----
-
-## 🏆 Achievements
-
-- 🧠 **Competitive Programming** — 600+ problems on LeetCode & GFG | Contest Rating: **1493**
-- 🥉 **Hackathon** — 3rd Place, Block Bash 2.0 — out of 1,000+ participants; built a decentralized app on Internet Computer Protocol (ICP) using Web3
-- 🎓 **Dean's List, LPU** — Top 10% of students across 8 semesters for academic excellence
+- ⚡ Streamlined React.js component architecture — **cut page load times by 25%** for 500+ daily users; shipped production builds on Vercel with Git-based CI/CD for zero-downtime deployments
+- 🗃️ Implemented **Redux** for global state management and built a reusable React component library — reduced bug reports by 15%
+- 🔌 Developed RESTful APIs with Node.js + Express.js featuring JWT auth, request validation middleware, and MongoDB aggregation pipelines
 
 ---
 
-## 📜 Certifications
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+  &nbsp;ACHIEVEMENTS UNLOCKED&nbsp;
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+</h2>
 
-- **Data Structures & Algorithms in C++** — GeeksforGeeks Self-Paced
-- **Cloud Computing** — NPTEL, IIT Kharagpur
+<div align="center">
 
----
+| 🏆 Achievement | Details |
+|---|---|
+| 🧠 **Competitive Programming** | 600+ problems on LeetCode & GFG · Contest Rating: **1493** |
+| 🥉 **Hackathon — Block Bash 2.0** | 3rd Place out of **1,000+ participants** · Built a decentralized app on ICP (Web3) |
+| 🎓 **Dean's List — LPU** | Top **10%** of students across 8 semesters for academic excellence |
+| 📦 **Open Source** | Published `sebi-main-parser v0.1.9` on PyPI |
 
-## 📊 GitHub Stats
-
-<p>
-  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevamKumar25&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevamKumar25&show_icons=true&locale=en&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<br clear="both"/>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevamKumar25&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevamKumar25&theme=github_dark" />
-</p>
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=DevamKumar25&icon=4&color=0)](https://visitcount.itsvg.in)
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+  &nbsp;GITHUB TROPHIES&nbsp;
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=DevamKumar25&theme=discord&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  &nbsp;GITHUB MATRIX&nbsp;
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DevamKumar25/DevamKumar25/output/github-snake.svg" alt="GitHub Snake Animation" />
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevamKumar25&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevamKumar25&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevamKumar25&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevamKumar25&theme=tokyonight" />
+
+</div>
+
+---
+
+<h2 align="center">
+  📜 CERTIFICATIONS
+</h2>
+
+<div align="center">
+
+![DSA C++](https://img.shields.io/badge/DSA%20in%20C++-GeeksforGeeks%20Self--Paced-10b981?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1e1b4b)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-NPTEL%20%7C%20IIT%20Kharagpur-6366f1?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1e1b4b)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=25&center=true&vCenter=true&width=700&height=80&duration=3500&lines=⚡+THANKS+FOR+VISITING+MY+DIGITAL+REALM!+⚡;🚀+LET'S+BUILD+SOMETHING+AMAZING+TOGETHER!+🚀;💻+OPEN+TO+COLLABORATIONS+%26+OPPORTUNITIES+💻;🌟+KEEP+CODING%2C+KEEP+CREATING!+🌟&color=6366f1&background=0f0f23FF" />
+
+</div>
+
+<div align="center">
+
 ```ascii
 ╭─────────────────────────────────────────────────────────────╮
-│  ⚡ "BUILDING THE FUTURE WITH AI-POWERED SOLUTIONS"          │  
-│        ~ Vishal Yadav • Software Developer @ Findoc ~       │
+│  ⚡ "BUILDING THE FUTURE WITH AI-POWERED SOLUTIONS"          │
+│        ~ Devam Kumar • Software Developer @ Findoc ~        │
 ╰─────────────────────────────────────────────────────────────╯
 ```
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,18&height=150&section=footer&text=while(alive)%20{%20Code();%20}&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=75"/>
