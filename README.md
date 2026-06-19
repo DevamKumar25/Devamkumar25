@@ -110,6 +110,38 @@
 ---
 
 <h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  &nbsp;GITHUB MATRIX&nbsp;
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DevamKumar25/DevamKumar25/output/github-snake.svg" alt="GitHub Snake Animation" />
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevamKumar25&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevamKumar25&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevamKumar25&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevamKumar25&theme=tokyonight" />
+
+</div>
+
+---
+
+<h2 align="center">
   <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">
   &nbsp;WHAT I'M UP TO&nbsp;
   <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">
@@ -192,39 +224,7 @@
   <img src="https://github-trophies.vercel.app/?username=DevamKumar25&theme=discord&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
----
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  &nbsp;GITHUB MATRIX&nbsp;
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DevamKumar25/DevamKumar25/output/github-snake.svg" alt="GitHub Snake Animation" />
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevamKumar25&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevamKumar25&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevamKumar25&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevamKumar25&theme=tokyonight" />
-
-</div>
-
----
 
 <h2 align="center">
   📜 CERTIFICATIONS
