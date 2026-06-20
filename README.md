@@ -1,4 +1,4 @@
-<img src="https://www.shutterstock.com/shutterstock/videos/1093339649/thumb/5.jpg?ip=x480" alt="logo" style="width:1000px; height:300px;">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&height=150&lines=👋+Welcome+to+Devam+Kumar's+GitHub;💻+Full+Stack+%26+Backend+Developer;🚀+Building+Scalable+Fintech+Solutions" width="100%"/>
 
 <div align="center">
 
