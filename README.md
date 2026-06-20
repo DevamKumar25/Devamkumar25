@@ -57,53 +57,172 @@
 
 <div align="center">
 
-**🔥 LANGUAGES**
+### 🔥 LANGUAGES
 
-![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=for-the-badge&logo=javascript&logoColor=1e1b4b&labelColor=fbbf24)
-![TypeScript](https://img.shields.io/badge/TypeScript-3b82f6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1e1b4b)
-![C++](https://img.shields.io/badge/C++-6366f1?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1e1b4b)
-![Go](https://img.shields.io/badge/Go-06b6d4?style=for-the-badge&logo=go&logoColor=white&labelColor=1e1b4b)
-![Python](https://img.shields.io/badge/Python-3b82f6?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1b4b)
-![Java](https://img.shields.io/badge/Java-f97316?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1e1b4b)
-![HTML5](https://img.shields.io/badge/HTML5-ef4444?style=for-the-badge&logo=html5&logoColor=white&labelColor=1e1b4b)
-![CSS3](https://img.shields.io/badge/CSS3-3b82f6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1e1b4b)
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55" height="55"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="55" height="55"/><br/>
+      <sub><b>Go</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55"/><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" height="55"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" height="55"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+  </tr>
+</table>
 
-**🚀 FRONTEND & FRAMEWORKS**
+### 🚀 FRONTEND & FRAMEWORKS
 
-![React](https://img.shields.io/badge/React-06b6d4?style=for-the-badge&logo=react&logoColor=white&labelColor=1e1b4b)
-![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=black&labelColor=1e1b4b)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1e1b4b)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8b5cf6?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1e1b4b)
-![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white&labelColor=1e1b4b)
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55"/><br/>
+      <sub><b>React.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="55" height="55"/><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="55" height="55"/><br/>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="55" height="55"/><br/>
+      <sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="55" height="55"/><br/>
+      <sub><b>Redux</b></sub>
+    </td>
+  </tr>
+</table>
 
-**⚡ BACKEND POWER**
+### ⚡ BACKEND POWER
 
-![Node.js](https://img.shields.io/badge/Node.js-10b981?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1e1b4b)
-![Express.js](https://img.shields.io/badge/Express.js-6b7280?style=for-the-badge&logo=express&logoColor=white&labelColor=1e1b4b)
-![Golang](https://img.shields.io/badge/Golang-06b6d4?style=for-the-badge&logo=go&logoColor=white&labelColor=1e1b4b)
-![FastAPI](https://img.shields.io/badge/FastAPI-05998b?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1e1b4b)
-![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white&labelColor=1e1b4b)
-![n8n](https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=1e1b4b)
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="55" height="55"/><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="55" height="55"/><br/>
+      <sub><b>Golang</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="55" height="55"/><br/>
+      <sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="55" height="55"/><br/>
+      <sub><b>Django</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="55" height="55"/><br/>
+      <sub><b>n8n</b></sub>
+    </td>
+  </tr>
+</table>
 
-**🗄️ DATABASES & CLOUD**
+### 🗄️ DATABASES & CLOUD
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6366f1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1e1b4b)
-![MongoDB](https://img.shields.io/badge/MongoDB-10b981?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1e1b4b)
-![MySQL](https://img.shields.io/badge/MySQL-3b82f6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1e1b4b)
-![Redis](https://img.shields.io/badge/Redis-ef4444?style=for-the-badge&logo=redis&logoColor=white&labelColor=1e1b4b)
-![AWS](https://img.shields.io/badge/AWS-f59e0b?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1e1b4b)
-![Firebase](https://img.shields.io/badge/Firebase-f59e0b?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=1e1b4b)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=1e1b4b)
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55" height="55"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="55" height="55"/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" height="55"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="55" height="55"/><br/>
+      <sub><b>Redis</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="55" height="55"/><br/>
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" height="55"/><br/>
+      <sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="55" height="55"/><br/>
+      <sub><b>Elasticsearch</b></sub>
+    </td>
+  </tr>
+</table>
 
-**🛠️ TOOLS & PLATFORMS**
+### 🛠️ TOOLS & PLATFORMS
 
-![Docker](https://img.shields.io/badge/Docker-06b6d4?style=for-the-badge&logo=docker&logoColor=white&labelColor=1e1b4b)
-![Nginx](https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white&labelColor=1e1b4b)
-![Git](https://img.shields.io/badge/GIT-ef4444?style=for-the-badge&logo=git&logoColor=white&labelColor=1e1b4b)
-![GitHub](https://img.shields.io/badge/GitHub-6b7280?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b)
-![Postman](https://img.shields.io/badge/Postman-f97316?style=for-the-badge&logo=postman&logoColor=white&labelColor=1e1b4b)
-![Figma](https://img.shields.io/badge/Figma-a855f7?style=for-the-badge&logo=figma&logoColor=white&labelColor=1e1b4b)
-![K6](https://img.shields.io/badge/K6-7d64ff?style=for-the-badge&logo=k6&logoColor=white&labelColor=1e1b4b)
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" height="55"/><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="55" height="55"/><br/>
+      <sub><b>Nginx</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" height="55"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" height="55"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55" height="55"/><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="55" height="55"/><br/>
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://avatars.githubusercontent.com/u/43955469?s=200&v=4" width="55" height="55"/><br/>
+      <sub><b>K6</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
